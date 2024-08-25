@@ -78,9 +78,9 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohamedOmarSabry&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1&bg_color=00000000&title_color=4493f8&text_color=495883&theme=transparent&icon_color=4493f8" height="140" width = "300" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MohamedOmarSabry&locale=en&hide_title=false&layout=compact&card_width=300&langs_count=5&theme=github_dark&hide_border=true&order=2&theme=transparent&bg_color=00000000" height="140" alt="languages graph" width = "330" />
-  <img src="https://streak-stats.demolab.com?user=MohamedOmarSabry&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3&theme=transparent" height="140" alt="streak graph" width = "320"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=MohamedOmarSabry&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1&bg_color=00000000&title_color=4493f8&text_color=495883&theme=transparent&icon_color=4493f8" height="140" width = "250" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MohamedOmarSabry&locale=en&hide_title=false&layout=compact&card_width=300&langs_count=5&theme=github_dark&hide_border=true&order=2&theme=transparent&bg_color=00000000" height="140" alt="languages graph" width = "280" />
+  <img src="https://streak-stats.demolab.com?user=MohamedOmarSabry&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3&theme=transparent" height="140" alt="streak graph" width = "270"  />
 </div>
 
 ###
